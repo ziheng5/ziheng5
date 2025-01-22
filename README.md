@@ -48,7 +48,6 @@ Source repository: <https://github.com/ziheng5/ziheng5>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=ziheng5&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -56,7 +55,6 @@ Source repository: <https://github.com/ziheng5/ziheng5>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/ziheng5"><img src="https://img.shields.io/badge/GitHub-ziheng5-blue?logo=github" alt="GitHub" title="GitHub" /></a>
 
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/ziheng5"><img src="https://komarev.com/ghpvc/?username=ziheng5&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
