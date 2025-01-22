@@ -55,9 +55,6 @@ Source repository: <https://github.com/ziheng5/ziheng5>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/ziheng5"><img src="https://komarev.com/ghpvc/?username=ziheng5&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
