@@ -37,7 +37,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Coldrain&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ziheng5&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 </p>
