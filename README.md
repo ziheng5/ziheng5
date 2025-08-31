@@ -36,6 +36,9 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact">
+</p>
 
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
