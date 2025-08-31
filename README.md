@@ -31,7 +31,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Coldrain&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=dark)
 
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
