@@ -36,6 +36,9 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=dark">
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coldrain)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2026%20mins-blue)
