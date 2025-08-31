@@ -39,10 +39,10 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 </p>
 
+## ⌛ My WakaTime Stats
 
-<!--START_SECTION:waka-->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ziheng5&layout=compact)
 
-<!--END_SECTION:waka-->
 
 
 
