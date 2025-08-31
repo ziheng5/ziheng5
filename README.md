@@ -33,10 +33,8 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 <p align="center">
     <!-- critics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=merko">
 </p>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coldrain)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ⌨️ Coding stats
