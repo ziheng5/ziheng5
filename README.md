@@ -31,14 +31,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Coldrain&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziheng5)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ziheng5&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=radical)
 
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
