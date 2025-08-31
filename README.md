@@ -33,7 +33,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 <p align="center">
     <!-- critics -->
-    <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=merko">
+    <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight">
 </p>
 
 
