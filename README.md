@@ -42,6 +42,8 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-329.5%20thousand%20lines%20of%20code-blue)
@@ -49,6 +51,8 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 **🐱 My GitHub Data** 
 
 > 📦 355.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 143 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +76,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:00:20 UTC
+ Last Updated on 18/09/2025 01:00:01 UTC
 <!--END_SECTION:waka-->
 
 
