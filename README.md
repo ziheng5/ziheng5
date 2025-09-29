@@ -42,6 +42,8 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ### ⌨️ Coding stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416.9%20thousand%20lines%20of%20code-blue)
@@ -75,7 +77,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 01:08:02 UTC
+ Last Updated on 29/09/2025 01:03:15 UTC
 <!--END_SECTION:waka-->
 
 
