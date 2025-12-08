@@ -48,38 +48,6 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460.1%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 316.1 kB Used in GitHub's Storage 
- > 
-> 🏆 190 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             █████████████░░░░░░░░░░░░   53.85 % 
-Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
-
-
- Last Updated on 08/12/2025 01:08:33 UTC
-<!--END_SECTION:waka-->
-
 
 
 
