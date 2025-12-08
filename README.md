@@ -40,15 +40,19 @@ Source repository: <https://github.com/Coldrain/Coldrain>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact">
 </p>
 
-### ⌨️ Coding stats
+
+
+<h3 align="center">⌨️ Coding stats</h3>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+<p align="center">
+  <img alt="Code Time" src="http://img.shields.io/badge/Code%20Time-421%20hrs%2030%20mins-blue" />
+  <img alt="Profile Views" src="http://img.shields.io/badge/Profile%20Views-9-blue" />
+  <img alt="Lines of code" src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460.1%20thousand%20lines%20of%20code-blue" />
+</p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-460.1%20thousand%20lines%20of%20code-blue)
-
-
+<!--END_SECTION:waka-->
 
 
 
