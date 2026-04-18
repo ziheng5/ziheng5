@@ -67,7 +67,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ```text
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 01:57:59 UTC
+ Last Updated on 18/04/2026 01:49:28 UTC
 <!--END_SECTION:waka-->
 
 
