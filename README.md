@@ -49,7 +49,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-317.61%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-317.65%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,6 +63,13 @@ Source repository: <https://github.com/Coldrain/Coldrain>
  > 
 > 🔑 1 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Linux                    10 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -80,7 +87,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 02:39:46 UTC
+ Last Updated on 21/05/2026 02:42:06 UTC
 <!--END_SECTION:waka-->
 
 
