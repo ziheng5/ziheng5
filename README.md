@@ -45,15 +45,13 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 <h3 align="center">⌨️ Coding stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.02%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 323.1 kB Used in GitHub's Storage 
+> 📦 323.3 kB Used in GitHub's Storage 
  > 
 > 🏆 51 Contributions in the Year 2026
  > 
@@ -67,7 +65,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ```text
 💻 Operating System: 
-Linux                    10 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +85,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:06:50 UTC
+ Last Updated on 24/07/2026 02:01:45 UTC
 <!--END_SECTION:waka-->
 
 
