@@ -45,10 +45,6 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 <h3 align="center">⌨️ Coding stats</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2020%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-320.48%20thousand%20lines%20of%20code-blue?style=flat)
@@ -69,7 +65,7 @@ Source repository: <https://github.com/Coldrain/Coldrain>
 
 ```text
 💻 Operating System: 
-Linux                    10 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,7 +73,7 @@ Linux                    10 hrs 10 mins      ███████████�
 ```text
 ⏱ AI Coding Time: 0 secs (0.02%)
 
-✍️ 1 lines written by AI, 343 lines written by hand (0.29% AI-written)
+✍️ 1 lines written by AI, 335 lines written by hand (0.3% AI-written)
 
 🔤 29,197 Input Tokens, 195 Output Tokens
 
@@ -88,10 +84,10 @@ Linux                    10 hrs 10 mins      ███████████�
 GPT                      1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.29% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.3% of written lines came from AI
 📝 Concise Prompter — average 41 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +107,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ziheng5/ziheng5/master/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:55:07 UTC
+ Last Updated on 07/08/2026 02:18:20 UTC
 <!--END_SECTION:waka-->
 
 
