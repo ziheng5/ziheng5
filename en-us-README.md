@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="top" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
 
 ### Coldrain 👋
 - [中文(zh-cn)](/README.md) | English(en-us)
@@ -9,19 +7,5 @@
 - You can still find me in these places:
 - [GitHub](https://github.com/ziheng5) | 
   [Bilibili](https://space.bilibili.com/3546747278198798) | 
-
-</td>
-
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
-
-</td>
-</tr>
-</table>
 
 
