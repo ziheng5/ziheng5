@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
-
 ### Coldrain 👋
 
 - 简体中文(zh-cn) | [English(en-us)](...)
