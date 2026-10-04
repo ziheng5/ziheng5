@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### Coldrain 👋
 - 简体中文(zh-cn) | [English(en-us)](...)
@@ -13,7 +13,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
 
