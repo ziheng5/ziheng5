@@ -3,12 +3,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
 
 ### Coldrain 👋
-- 简体中文(zh-cn) | [English(en-us)](/en-us-README.md)
-- 通信工程本科生
-- [个人技术博客](https://coldrain.top/)
-- 还可以在这些地方找到我：
+- [中文(zh-cn)](/README.md) | English(en-us)
+- Undergraduate student in Communication Engineering
+- [Personal technology blog](https://jzplp.github.io/)
+- You can still find me in these places:
 - [GitHub](https://github.com/ziheng5) | 
   [Bilibili](https://space.bilibili.com/3546747278198798) | 
-
-
-
