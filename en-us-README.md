@@ -1,6 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
 
-<br><br>
+<br clear="right">
+<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
 
