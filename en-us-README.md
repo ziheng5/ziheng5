@@ -1,9 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziheng5&show_icons=true&theme=tokyonight" />
 
-<br clear="right">
-<br>
+  <br><br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=coldrain&theme=tokyonight&layout=compact" />
+</div>
 
 ### Coldrain 👋
 - [中文(zh-cn)](/README.md) | English(en-us)
